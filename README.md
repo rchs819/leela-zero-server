@@ -1,4 +1,6 @@
 # leela-zero-server
+[![Next Build Status](https://travis-ci.org/rchs819/leela-zero-server.svg?branch=next)](https://travis-ci.org/rchs819/leela-zero-server)
+
 ## Dev Environment Setup
 ### Requirements
 - Node.js (https://nodejs.org/en/download/)
