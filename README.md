@@ -13,6 +13,7 @@
 ### Before running `node server.js`
 - Ensure MongoDB is running locally on port `27017`
 - Ensure dummy `auth_key` file is created at project root
+- Ensure dummy `task_secret` file is created at project root
 - Ensure `network/best-network.gz` & `network/<best-network-hash>.gz` both exist (you could download it from http://zero.sjeng.org/best-network)
 - Build mongo index, run `mongodb.indexes` in mongo console
 - Run `npm install` to get required packages
